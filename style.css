@@ -1,0 +1,62 @@
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+img {
+    display: block;
+    max-width: 100;
+    height: auto;
+  }
+
+a {
+    text-decoration: none;
+    font-style: normal;
+  }
+
+  .container {
+    width: 1030px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+.header {
+    background-color: rgb(166, 166, 166);
+    border-bottom: 3px solid #888888;
+}
+
+.Photo-Ivan {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+}
+
+.header-title {
+   text-align: center;
+}
+
+.mini-title {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.title-1 {
+    margin-top: 55px;
+    margin-left: 55px;
+}
+
+.title {
+    margin-left: 55px;
+}
+
+.link {
+    margin-left: 55px;
+    color: black; 
+    cursor: pointer;
+}
+
+.link:hover,
+.link:focus {
+    color: brown;
+}
